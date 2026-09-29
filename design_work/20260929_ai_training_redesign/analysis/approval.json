@@ -1,0 +1,8 @@
+{
+  "status": "confirmed",
+  "channel": "chat and confirm UI",
+  "user_text": "Proceed",
+  "canvas_override": "960x720 source 4:3",
+  "template": "apple",
+  "identity_override": "Explicit user Diplomat reference"
+}

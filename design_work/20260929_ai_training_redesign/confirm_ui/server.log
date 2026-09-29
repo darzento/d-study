@@ -1,0 +1,37 @@
+[16:38:33] [INFO] confirm_ui: running at http://127.0.0.1:5050
+[16:38:33] [INFO] confirm_ui: project: D:\02_Document\20_연수회\260930-1\design_work\20260929_ai_training_redesign
+[16:38:33] [INFO] confirm_ui: idle timeout: 900s (0 = disabled)
+ * Serving Flask app 'server'
+ * Debug mode: off
+[16:38:33] [INFO] confirm_ui: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+[16:38:33] [INFO] confirm_ui: [33mPress CTRL+C to quit[0m
+[16:38:34] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:34] "GET /api/health HTTP/1.1" 200 -
+[16:38:35] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:35] "GET / HTTP/1.1" 200 -
+[16:38:35] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:35] "GET /static/style.css HTTP/1.1" 200 -
+[16:38:35] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:35] "GET /static/app.js HTTP/1.1" 200 -
+[16:38:35] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:35] "GET /api/recommendations HTTP/1.1" 200 -
+[16:38:35] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:35] "GET /api/catalogs HTTP/1.1" 200 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "GET /api/ai-image-comparison HTTP/1.1" 200 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "GET /api/icon-previews HTTP/1.1" 200 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "GET /api/template_preview/jangpm?lang=ko HTTP/1.1" 200 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "GET /api/template_preview/apple?lang=ko HTTP/1.1" 200 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "GET /api/template_preview/naver_ir?lang=ko HTTP/1.1" 200 -
+[16:38:36] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:36] "GET /api/template_preview/mckinsey?lang=ko HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET / HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET /static/style.css HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET /static/app.js HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET /api/icon-previews HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET /api/ai-image-comparison HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET /api/recommendations HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "GET /api/catalogs HTTP/1.1" 200 -
+[16:38:52] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[16:38:53] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:53] "GET /api/template_preview/apple?lang=ko HTTP/1.1" 200 -
+[16:38:53] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:53] "GET /api/template_preview/jangpm?lang=ko HTTP/1.1" 200 -
+[16:38:53] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:53] "GET /api/template_preview/mckinsey?lang=ko HTTP/1.1" 200 -
+[16:38:53] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:38:53] "GET /api/template_preview/naver_ir?lang=ko HTTP/1.1" 200 -
+[16:40:27] [INFO] confirm_ui: final confirmation written to D:\02_Document\20_연수회\260930-1\design_work\20260929_ai_training_redesign\confirm_ui\result.json
+[16:40:27] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:40:27] "POST /api/confirm HTTP/1.1" 200 -
+[16:40:27] [INFO] confirm_ui: 127.0.0.1 - - [29/Sep/2026 16:40:27] "POST /api/shutdown HTTP/1.1" 200 -
+[16:40:28] [INFO] confirm_ui: shutting down (confirmed)

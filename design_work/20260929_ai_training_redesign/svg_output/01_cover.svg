@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" data-pptx-master="apple-master" data-pptx-master-name="Apple" data-pptx-layout="cover-left-rule" data-pptx-layout-name="Cover Left Rule">
+<rect id="master-bg" width="960" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<image id="master-logo" href="../images/image1.png" x="682" y="676" width="230" height="17.66" preserveAspectRatio="xMidYMid meet" data-pptx-layer="master"/>
+<line id="cover-rule" x1="48" y1="364" x2="912" y2="364" stroke="#DA1F28" stroke-width="2" data-pptx-layer="layout"/>
+<g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="48 254 864 82"><text id="title-carrier" data-pptx-placeholder-carrier="true" x="48" y="315" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="48" font-weight="700" fill="#000000">AI 활용, 한 단계 더</text></g>
+<g id="subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="48 120 864 50"><text id="subtitle-carrier" data-pptx-placeholder-carrier="true" x="48" y="156" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="24" fill="#464646">제OOO회 수요연수회</text></g>
+<g id="event-date"><text x="48" y="459" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="18.67" fill="#464646">2026년 9월 30일</text></g>
+<g id="event-team"><text x="48" y="493" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="18.67" fill="#464646">기술연구소</text></g>
+<g id="event-speaker"><text x="48" y="527" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="18.67" fill="#464646">성진영 프로</text></g>
+</svg>

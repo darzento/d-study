@@ -1,0 +1,70 @@
+{
+  "title_slide": {
+    "header_tag": "제OOO회 수요연수회",
+    "title": "AI 활용, 한 단계 더",
+    "date": "2026년 9월 30일",
+    "team": "기술연구소",
+    "presenter": "성진영 프로"
+  },
+  "agenda": {
+    "items": [
+      "AI 활용, 어디까지 왔을까?",
+      "어떻게 하면 AI를 진짜 잘 쓸 수 있을까?",
+      "라이브 시연: 회의 메모의 기적",
+      "내일부터 당장 써먹는 1가지 작은 실천",
+      "지속 가능한 AI 협업 워크플로우"
+    ]
+  },
+  "slides": [
+    {
+      "type": "cards_header_band",
+      "title": "AI 활용, 어디까지 왔을까?",
+      "key_message": "텍스트 한 줄로 시공간을 넘나드는 고품질 영상을 구현하는 시대",
+      "bottom_callout": "핵심: AI는 상상을 시각화하고 단순 업무를 초고속화하는 실전 도구입니다."
+    },
+    {
+      "type": "cards_pastel",
+      "title": "우리가 AI를 쓰며 느끼는 흔한 좌절",
+      "key_message": "기대와 다른 두루뭉술한 답변과 매번 반복되는 설명에 지치는 현실",
+      "bottom_callout": "원인은 AI의 한계가 아닌, '일 시키는 방식(디렉팅)'의 부재였습니다."
+    },
+    {
+      "type": "cards_header_band",
+      "title": "어떻게 하면 AI를 진짜 잘 쓸 수 있을까?",
+      "key_message": "AI는 자판기가 아니라, 사내 맥락을 모르는 '유능한 신입 사원'입니다.",
+      "bottom_callout": "핵심은 배경·제약·완료조건 3가지를 명확히 분리하여 지시하는 것입니다."
+    },
+    {
+      "type": "cards_comparison",
+      "title": "프롬프트 작성 전과 후 비교 예시",
+      "key_message": "질문의 해상도를 높이면 AI의 답변 수준이 즉시 전문가 수준으로 변합니다.",
+      "bottom_callout": "질문의 해상도를 높이면, AI는 뻔한 글 대신 실무 완성품을 만듭니다."
+    },
+    {
+      "type": "cards_pastel",
+      "title": "한 단계 더: 단발성 질문을 넘어 시스템으로",
+      "key_message": "도구(Tool), 스킬(Skill), 에이전트(Agent)의 결합으로 완성하는 자동화",
+      "bottom_callout": "비유하면: 스킬은 업무 매뉴얼, 에이전트는 전담 비서, 플러그인은 손발 도구입니다."
+    },
+    {
+      "type": "cards_header_band",
+      "title": "라이브 시연: 회의 메모의 기적",
+      "key_message": "부서 간 회의 메모를 투입하여 1분 만에 경영진 보고 양식으로 자동 구조화",
+      "bottom_callout": "사람이 30분 걸리던 서식 정리를, AI가 단 40초 만에 완수합니다."
+    },
+    {
+      "type": "cards_pastel",
+      "title": "내일부터 당장 써먹는 1가지 작은 실천",
+      "key_message": "질문 맨 끝에 '내가 원하는 완료 기준(채점표)' 딱 한 줄만 붙여보세요.",
+      "bottom_callout": "완료 기준 단 한 줄 추가가 매일 여러분의 퇴근 시간을 앞당깁니다."
+    },
+    {
+      "type": "pipeline_flow",
+      "title": "지속 가능한 AI 협업 워크플로우",
+      "key_message": "업무의 발견부터 자산화까지 이어지는 전사 업무 선순환 사이클",
+      "bottom_callout": "핵심: 1회성 질문에 그치지 않고, 템플릿으로 자산화하여 복리 효율을 만듭니다."
+    }
+  ],
+  "include_closing": true,
+  "closing_message": "경청해 주셔서 감사합니다.\n\n( 질의응답 및 자유 토론 )"
+}

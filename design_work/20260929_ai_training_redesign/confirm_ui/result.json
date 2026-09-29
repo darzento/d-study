@@ -1,0 +1,57 @@
+{
+  "canvas": "ppt43",
+  "audience": "디프로매트 수요연수회 임직원",
+  "content_divergence": "",
+  "mode": "instructional",
+  "visual_style": "swiss-minimal",
+  "template": "apple",
+  "delivery_purpose": "presentation",
+  "page_count": "11",
+  "color": {
+    "name": "",
+    "palette": {
+      "background": "#FFFFFF",
+      "secondary_bg": "#F4F6F8",
+      "primary": "#000000",
+      "accent": "#DA1F28",
+      "secondary_accent": "#39639D",
+      "body_text": "#464646"
+    }
+  },
+  "icons": "tabler-outline",
+  "typography": {
+    "name": "",
+    "heading": {
+      "cjk": "맑은 고딕",
+      "css": "'Malgun Gothic','맑은 고딕',sans-serif",
+      "latin": "Malgun Gothic",
+      "sample_cjk": "지속 가능한 AI 협업 워크플로우",
+      "sample_latin": "AI Workflow"
+    },
+    "body": {
+      "cjk": "맑은 고딕",
+      "css": "'Malgun Gothic','맑은 고딕',sans-serif",
+      "latin": "Malgun Gothic",
+      "sample_cjk": "배경·제약·완료조건을 명확히 구분합니다",
+      "sample_latin": "Context, Constraints, Format"
+    },
+    "body_size": 18.67,
+    "sizes": {
+      "annotation": 13.33,
+      "subtitle": 21.33,
+      "title": 32
+    },
+    "body_size_unit": "px"
+  },
+  "formula_policy": "mixed",
+  "image_usage": [
+    "provided"
+  ],
+  "image_notes": "diplomat_study_ppt를 사용자가 지정한 디자인 기준으로 적용. 4:3 원본 크기 720×540pt 유지. 기존 디프로매트 로고 원본을 재사용. 첨부 12개 화면은 여백·좌우 비교·흐름도 구성 참고용이며 영상 자막, 재생 UI, 손글씨는 사용하지 않음. 슬라이드 11장과 본문 문구·수치·순서는 유지. 6장은 넓은 좌우 비교, 10장은 3단계씩 두 줄로 이어지는 흐름도. 표지와 마무리는 넓은 여백 유지. 외부 이미지 및 AI 이미지 생성 없음.",
+  "generation_mode": "continuous",
+  "refine_spec": false,
+  "template_adherence": "adaptive",
+  "stage": "final",
+  "status": "confirmed",
+  "confirmed_at": "2026-09-29T16:40:27"
+}

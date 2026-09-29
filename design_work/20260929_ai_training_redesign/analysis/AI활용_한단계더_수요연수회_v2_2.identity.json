@@ -1,0 +1,112 @@
+{
+  "source": "D:\\02_Document\\20_연수회\\260930-1\\design_work\\20260929_ai_training_redesign\\sources\\AI활용_한단계더_수요연수회_v2_2.pptx",
+  "slide_count": 11,
+  "canvas": {
+    "width_px": 960,
+    "height_px": 720,
+    "aspect": 1.3333
+  },
+  "theme": {
+    "palette": {
+      "background": "#FFFFFF",
+      "background_alt": "#DEF5FA",
+      "text": "#000000",
+      "text_alt": "#464646",
+      "hyperlink": "#39639D",
+      "accent1": "#2DA2BF",
+      "accent2": "#DA1F28",
+      "accent3": "#EB641B",
+      "accent4": "#39639D",
+      "accent5": "#474B78",
+      "accent6": "#7D3C4A",
+      "primary": "#2DA2BF"
+    },
+    "fonts": {
+      "title": {
+        "latin": "맑은 고딕"
+      },
+      "body": {
+        "latin": "맑은 고딕"
+      }
+    },
+    "sizes": {
+      "title": 44.0,
+      "body": 32.0,
+      "body_levels": [
+        32.0,
+        28.0,
+        24.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    }
+  },
+  "observed": {
+    "fonts": {
+      "latin": [
+        {
+          "value": "맑은 고딕",
+          "count": 171
+        }
+      ],
+      "ea": []
+    },
+    "sizes_pt": [],
+    "colors": [
+      {
+        "value": "#464646",
+        "count": 119
+      },
+      {
+        "value": "#2DA2BF",
+        "count": 49
+      },
+      {
+        "value": "#FFFFFF",
+        "count": 37
+      },
+      {
+        "value": "#DEF5FA",
+        "count": 20
+      },
+      {
+        "value": "#39639D",
+        "count": 14
+      },
+      {
+        "value": "#EB641B",
+        "count": 12
+      },
+      {
+        "value": "#EBF1F8",
+        "count": 3
+      },
+      {
+        "value": "#FDF0E8",
+        "count": 3
+      }
+    ]
+  },
+  "layout_sizes_pt": [
+    {
+      "value": 14.0,
+      "count": 3
+    },
+    {
+      "value": 16.0,
+      "count": 1
+    },
+    {
+      "value": 20.0,
+      "count": 1
+    },
+    {
+      "value": 24.0,
+      "count": 1
+    }
+  ]
+}

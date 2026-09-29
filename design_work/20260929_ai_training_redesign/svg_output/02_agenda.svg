@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" data-pptx-master="apple-master" data-pptx-master-name="Apple" data-pptx-layout="agenda-five-rows" data-pptx-layout-name="Agenda Five Rows">
+<rect id="master-bg" width="960" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+<image id="master-logo" href="../images/image1.png" x="682" y="676" width="230" height="17.66" preserveAspectRatio="xMidYMid meet" data-pptx-layer="master"/>
+<line id="agenda-rule" x1="48" y1="145" x2="912" y2="145" stroke="#DA1F28" stroke-width="2" data-pptx-layer="layout"/>
+<g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="48 66 864 64"><text id="title-carrier" data-pptx-placeholder-carrier="true" x="48" y="112" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="42.67" font-weight="700" fill="#000000">목차</text></g>
+<g id="agenda-item-1"><text x="64" y="218" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="26" fill="#000000">AI 활용, 어디까지 왔을까?</text><line x1="48" y1="248" x2="912" y2="248" stroke="#D9DEE3"/></g>
+<g id="agenda-item-2"><text x="64" y="289" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="26" fill="#000000">어떻게 하면 AI를 진짜 잘 쓸 수 있을까?</text><line x1="48" y1="319" x2="912" y2="319" stroke="#D9DEE3"/></g>
+<g id="agenda-item-3"><text x="64" y="360" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="26" fill="#000000">라이브 시연: 회의 메모의 기적</text><line x1="48" y1="390" x2="912" y2="390" stroke="#D9DEE3"/></g>
+<g id="agenda-item-4"><text x="64" y="431" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="26" fill="#000000">내일부터 당장 써먹는 1가지 작은 실천</text><line x1="48" y1="461" x2="912" y2="461" stroke="#D9DEE3"/></g>
+<g id="agenda-item-5"><text x="64" y="502" font-family="'Malgun Gothic', '맑은 고딕', Arial, sans-serif" font-size="26" fill="#000000">지속 가능한 AI 협업 워크플로우</text></g>
+</svg>

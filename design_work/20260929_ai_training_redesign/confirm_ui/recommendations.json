@@ -1,0 +1,41 @@
+{
+  "lang": "ko",
+  "recommend": {
+    "canvas": "ppt43",
+    "template": "free",
+    "mode": "instructional",
+    "visual_style": "swiss-minimal",
+    "icons": "tabler-outline",
+    "image_usage": ["provided"],
+    "formula_policy": "mixed",
+    "generation_mode": "continuous",
+    "delivery_purpose": "balanced"
+  },
+  "page_count": {"value": "11"},
+  "audience": {"value": "디프로매트 수요연수회 임직원"},
+  "image_notes": {"value": "diplomat_study_ppt를 사용자가 지정한 디자인 기준으로 적용. 4:3 원본 크기 720×540pt 유지. 기존 디프로매트 로고 원본을 재사용. 첨부 12개 화면은 여백·좌우 비교·흐름도 구성 참고용이며 영상 자막, 재생 UI, 손글씨는 사용하지 않음. 슬라이드 11장과 본문 문구·수치·순서는 유지. 6장은 넓은 좌우 비교, 10장은 3단계씩 두 줄로 이어지는 흐름도. 표지와 마무리는 넓은 여백 유지. 외부 이미지 및 AI 이미지 생성 없음."},
+  "color": {
+    "selected": 0,
+    "candidates": [{
+      "name_ko": "지정한 디프로매트 양식",
+      "note_ko": "사용자가 지정한 reference design에 따라 단일 권장안. 흰 배경·검정 제목·빨간 구분선·파란 요약. 회색 면을 최소한으로 사용.",
+      "palette": {"background":"#FFFFFF","secondary_bg":"#F4F6F8","primary":"#000000","accent":"#DA1F28","secondary_accent":"#39639D","body_text":"#464646"}
+    }]
+  },
+  "typography": {
+    "selected": 0,
+    "candidates": [{
+      "name_ko": "지정 양식의 맑은 고딕",
+      "note_ko": "사용자 지정 reference 기준: 본문 제목 24pt, 요약 16pt, 기본 본문 14pt. 넓은 텍스트 영역과 어절 단위 줄바꿈으로 가독성 확보. 표지·목차·마무리는 해당 양식의 크기 적용.",
+      "sample_heading": "지속 가능한 AI 협업 워크플로우",
+      "sample_heading_latin": "AI Workflow",
+      "sample_body": "배경·제약·완료조건을 명확히 구분합니다",
+      "sample_body_latin": "Context, Constraints, Format",
+      "heading": {"cjk":"맑은 고딕","latin":"Malgun Gothic","css":"'Malgun Gothic','맑은 고딕',sans-serif"},
+      "body": {"cjk":"맑은 고딕","latin":"Malgun Gothic","css":"'Malgun Gothic','맑은 고딕',sans-serif"},
+      "body_size": 18.6667,
+      "sizes": {"title":32,"subtitle":21.3333,"annotation":13.3333}
+    }]
+  },
+  "refine_spec": {"value":false}
+}

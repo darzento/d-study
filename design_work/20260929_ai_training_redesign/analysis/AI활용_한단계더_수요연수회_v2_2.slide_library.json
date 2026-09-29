@@ -1,0 +1,1414 @@
+{
+  "schema": "template_fill_pptx_library.v1",
+  "source_pptx": "D:\\02_Document\\20_연수회\\260930-1\\design_work\\20260929_ai_training_redesign\\sources\\AI활용_한단계더_수요연수회_v2_2.pptx",
+  "slide_count": 11,
+  "canvas_px": {
+    "width": 960,
+    "height": 720
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "page_type": "cover_candidate",
+      "text_summary": "AI 활용, 한 단계 더\n2026년 9월 30일\n기술연구소\n성진영 프로\n제OOO회 수요연수회",
+      "slots": [
+        {
+          "slot_id": "s01_sh2",
+          "role": "title_candidate",
+          "text": "AI 활용, 한 단계 더",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh3",
+          "role": "label_candidate",
+          "text": "2026년 9월 30일",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh4",
+          "role": "label_candidate",
+          "text": "기술연구소",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh5",
+          "role": "label_candidate",
+          "text": "성진영 프로",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh6",
+          "role": "title_candidate",
+          "text": "제OOO회 수요연수회",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 40,
+            "y": 49,
+            "width": 336,
+            "height": 58
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 2,
+      "page_type": "content_candidate",
+      "text_summary": "목차\nAI 활용, 어디까지 왔을까?\n어떻게 하면 AI를 진짜 잘 쓸 수 있을까?\n라이브 시연: 회의 메모의 기적\n내일부터 당장 써먹는 1가지 작은 실천\n지속 가능한 AI 협업 워크플로우",
+      "slots": [
+        {
+          "slot_id": "s02_sh2",
+          "role": "title_candidate",
+          "text": "목차",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh3",
+          "role": "body_candidate",
+          "text": "AI 활용, 어디까지 왔을까?\n어떻게 하면 AI를 진짜 잘 쓸 수 있을까?\n라이브 시연: 회의 메모의 기적\n내일부터 당장 써먹는 1가지 작은 실천\n지속 가능한 AI 협업 워크플로우",
+          "paragraph_count": 5,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 5
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 3,
+      "page_type": "content_candidate",
+      "text_summary": "AI 활용, 어디까지 왔을까?\n텍스트 한 줄로 시공간을 넘나드는 고품질 영상을 구현하는 시대\n영상 사례 1:\n타임머신 여행\n텍스트 프롬프트 기반\n역사적 시공간 초고속 복원\n사실적 영상 자동 생성\n(유튜브 쇼츠 실습 영상)\n영상 사례 2:\n산업 현장 AI\n도면·사진 3D 변환\n회의록 화자 분리 및 요약\n단순 작업 즉각 자동화\n(업무 생산성 혁신)\n임직원을 위한\n시사점\n연구용 기술 탈피\n실무에 즉시 투입 가능한\n일상 업무 가속 도구\n핵심: AI는 상상을 시각화하고 단순 업무를 초고속화하는 실전 도구입니다.",
+      "slots": [
+        {
+          "slot_id": "s03_sh2",
+          "role": "title_candidate",
+          "text": "AI 활용, 어디까지 왔을까?",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s03_sh3",
+          "role": "label_candidate",
+          "text": "텍스트 한 줄로 시공간을 넘나드는 고품질 영상을 구현하는 시대",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s03_sh4",
+          "role": "label_candidate",
+          "text": "영상 사례 1:\n타임머신 여행",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s03_sh5",
+          "role": "body_candidate",
+          "text": "텍스트 프롬프트 기반\n역사적 시공간 초고속 복원\n사실적 영상 자동 생성\n(유튜브 쇼츠 실습 영상)",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 62,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s03_sh6",
+          "role": "label_candidate",
+          "text": "영상 사례 2:\n산업 현장 AI",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 349,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s03_sh7",
+          "role": "body_candidate",
+          "text": "도면·사진 3D 변환\n회의록 화자 분리 및 요약\n단순 작업 즉각 자동화\n(업무 생산성 혁신)",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 349,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s03_sh8",
+          "role": "label_candidate",
+          "text": "임직원을 위한\n시사점",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 635,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s03_sh9",
+          "role": "label_candidate",
+          "text": "연구용 기술 탈피\n실무에 즉시 투입 가능한\n일상 업무 가속 도구",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 635,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s03_sh10",
+          "role": "label_candidate",
+          "text": "핵심: AI는 상상을 시각화하고 단순 업무를 초고속화하는 실전 도구입니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 4,
+      "page_type": "content_candidate",
+      "text_summary": "우리가 AI를 쓰며 느끼는 흔한 좌절\n기대와 다른 두루뭉술한 답변과 매번 반복되는 설명에 지치는 현실\n두루뭉술한 답변\n교과서적 일반론 나열\n사내 맥락·규정 미반영\n“알아서 써줘”의 한계\n반복 설명의 피로\n새 대화창마다 복사·붙여넣기\n서식·규칙 재설명 피로\n세션 종료 시 기억 망각\n실무 적용 포기\n“그냥 내가 쓰고 말지”\n결국 수작업으로 회귀\n도구 활용의 단절\n원인은 AI의 한계가 아닌, '일 시키는 방식(디렉팅)'의 부재였습니다.",
+      "slots": [
+        {
+          "slot_id": "s04_sh2",
+          "role": "title_candidate",
+          "text": "우리가 AI를 쓰며 느끼는 흔한 좌절",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh3",
+          "role": "label_candidate",
+          "text": "기대와 다른 두루뭉술한 답변과 매번 반복되는 설명에 지치는 현실",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh4",
+          "role": "body_candidate",
+          "text": "두루뭉술한 답변\n교과서적 일반론 나열\n사내 맥락·규정 미반영\n“알아서 써줘”의 한계",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s04_sh5",
+          "role": "body_candidate",
+          "text": "반복 설명의 피로\n새 대화창마다 복사·붙여넣기\n서식·규칙 재설명 피로\n세션 종료 시 기억 망각",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 353,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s04_sh6",
+          "role": "body_candidate",
+          "text": "실무 적용 포기\n“그냥 내가 쓰고 말지”\n결국 수작업으로 회귀\n도구 활용의 단절",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 644,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s04_sh7",
+          "role": "label_candidate",
+          "text": "원인은 AI의 한계가 아닌, '일 시키는 방식(디렉팅)'의 부재였습니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 5,
+      "page_type": "content_candidate",
+      "text_summary": "어떻게 하면 AI를 진짜 잘 쓸 수 있을까?\nAI는 자판기가 아니라, 사내 맥락을 모르는 '유능한 신입 사원'입니다.\n배경\n(Context)\n작성 목적 & 보고 대상\n사내 상황과 타깃을\n명확히 사전 공유\n제약\n(Constraints)\n필수 포함 & 금지 기준\n분량 제한·핵심 수치·\n주의사항 사전 지정\n완료 기준\n(Format)\n최종 출력 양식 규격화\n3줄 요약·표 형식 지정\n(AI 자체 검증 유도)\n핵심은 배경·제약·완료조건 3가지를 명확히 분리하여 지시하는 것입니다.",
+      "slots": [
+        {
+          "slot_id": "s05_sh2",
+          "role": "title_candidate",
+          "text": "어떻게 하면 AI를 진짜 잘 쓸 수 있을까?",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh3",
+          "role": "label_candidate",
+          "text": "AI는 자판기가 아니라, 사내 맥락을 모르는 '유능한 신입 사원'입니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh4",
+          "role": "label_candidate",
+          "text": "배경\n(Context)",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s05_sh5",
+          "role": "label_candidate",
+          "text": "작성 목적 & 보고 대상\n사내 상황과 타깃을\n명확히 사전 공유",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 62,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s05_sh6",
+          "role": "label_candidate",
+          "text": "제약\n(Constraints)",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 349,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s05_sh7",
+          "role": "label_candidate",
+          "text": "필수 포함 & 금지 기준\n분량 제한·핵심 수치·\n주의사항 사전 지정",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 349,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s05_sh8",
+          "role": "label_candidate",
+          "text": "완료 기준\n(Format)",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 635,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s05_sh9",
+          "role": "label_candidate",
+          "text": "최종 출력 양식 규격화\n3줄 요약·표 형식 지정\n(AI 자체 검증 유도)",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 635,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s05_sh10",
+          "role": "label_candidate",
+          "text": "핵심은 배경·제약·완료조건 3가지를 명확히 분리하여 지시하는 것입니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 6,
+      "page_type": "content_candidate",
+      "text_summary": "프롬프트 작성 전과 후 비교 예시\n질문의 해상도를 높이면 AI의 답변 수준이 즉시 전문가 수준으로 변합니다.\n❌ 기존 방식 (자판기형 단순 질문)\n• 지시: \"신제품 금고 홍보 문구 써줘\"\n• 문제: 타깃·채널·제약조건 부재\n• 결과: 뻔한 교과서적 홍보글 출력\n• 평가: 실무 활용 불가 (재작업 발생)\n⭕ 개선 방식 (신입 사원 디렉팅 - 3C 적용)\n• 지시: \"30대 1인가구 타깃 방화금고 카피 3개, 안도감 강조, 50자 표로\"\n• 특징: 타깃·채널·완료기준 명확히 제시\n• 결과: 감성을 자극하는 실무용 카피 도출\n• 평가: 즉시 결재 가능한 완성도 확보\n질문의 해상도를 높이면, AI는 뻔한 글 대신 실무 완성품을 만듭니다.",
+      "slots": [
+        {
+          "slot_id": "s06_sh2",
+          "role": "title_candidate",
+          "text": "프롬프트 작성 전과 후 비교 예시",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh3",
+          "role": "label_candidate",
+          "text": "질문의 해상도를 높이면 AI의 답변 수준이 즉시 전문가 수준으로 변합니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh4",
+          "role": "body_candidate",
+          "text": "❌ 기존 방식 (자판기형 단순 질문)\n• 지시: \"신제품 금고 홍보 문구 써줘\"\n• 문제: 타깃·채널·제약조건 부재\n• 결과: 뻔한 교과서적 홍보글 출력\n• 평가: 실무 활용 불가 (재작업 발생)",
+          "paragraph_count": 5,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 403,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 22.67,
+            "paragraph_count": 5
+          }
+        },
+        {
+          "slot_id": "s06_sh5",
+          "role": "body_candidate",
+          "text": "⭕ 개선 방식 (신입 사원 디렉팅 - 3C 적용)\n• 지시: \"30대 1인가구 타깃 방화금고 카피 3개, 안도감 강조, 50자 표로\"\n• 특징: 타깃·채널·완료기준 명확히 제시\n• 결과: 감성을 자극하는 실무용 카피 도출\n• 평가: 즉시 결재 가능한 완성도 확보",
+          "paragraph_count": 5,
+          "geometry": {
+            "x": 494,
+            "y": 178,
+            "width": 403,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 22.67,
+            "paragraph_count": 5
+          }
+        },
+        {
+          "slot_id": "s06_sh6",
+          "role": "label_candidate",
+          "text": "질문의 해상도를 높이면, AI는 뻔한 글 대신 실무 완성품을 만듭니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 7,
+      "page_type": "content_candidate",
+      "text_summary": "한 단계 더: 단발성 질문을 넘어 시스템으로\n도구(Tool), 스킬(Skill), 에이전트(Agent)의 결합으로 완성하는 자동화\n스킬 (Skill)\n반복 업무 표준 매뉴얼\n규칙 영구 기억 (SOP)\n예: 디프로매트 보고서 양식\n에이전트 (Agent)\n목표를 완수하는 전담 비서\n스스로 작업 수행\n예: 회의록 요약, 품질 분석 담당\n플러그인 (Plugin)\n외부 도구·기능 연결 연장\nAI의 실행 손발\n예: 파일 읽기·쓰기, 검색 도구\n비유하면: 스킬은 업무 매뉴얼, 에이전트는 전담 비서, 플러그인은 손발 도구입니다.",
+      "slots": [
+        {
+          "slot_id": "s07_sh2",
+          "role": "title_candidate",
+          "text": "한 단계 더: 단발성 질문을 넘어 시스템으로",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh3",
+          "role": "label_candidate",
+          "text": "도구(Tool), 스킬(Skill), 에이전트(Agent)의 결합으로 완성하는 자동화",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh4",
+          "role": "body_candidate",
+          "text": "스킬 (Skill)\n반복 업무 표준 매뉴얼\n규칙 영구 기억 (SOP)\n예: 디프로매트 보고서 양식",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s07_sh5",
+          "role": "body_candidate",
+          "text": "에이전트 (Agent)\n목표를 완수하는 전담 비서\n스스로 작업 수행\n예: 회의록 요약, 품질 분석 담당",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 353,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s07_sh6",
+          "role": "body_candidate",
+          "text": "플러그인 (Plugin)\n외부 도구·기능 연결 연장\nAI의 실행 손발\n예: 파일 읽기·쓰기, 검색 도구",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 644,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s07_sh7",
+          "role": "label_candidate",
+          "text": "비유하면: 스킬은 업무 매뉴얼, 에이전트는 전담 비서, 플러그인은 손발 도구입니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 8,
+      "page_type": "content_candidate",
+      "text_summary": "라이브 시연: 회의 메모의 기적\n부서 간 회의 메모를 투입하여 1분 만에 경영진 보고 양식으로 자동 구조화\n1단계:\n날것의 메모 투입\n두서없는 10줄 회의 메모\n부서별 발언·일정 메모 입력\n(현장 날것의 텍스트 원본)\n2단계:\n사내 표준 스킬 호출\n디프로매트 표준 양식 적용\n3줄 요약 + 쟁점 표 +\nAction Item 자동 매핑\n3단계:\n1분 내 보고서 완성\n결재용 1페이지 보고서 출력\n사람은 1분 팩트체크 후\n즉시 사내 결재 진행\n사람이 30분 걸리던 서식 정리를, AI가 단 40초 만에 완수합니다.",
+      "slots": [
+        {
+          "slot_id": "s08_sh2",
+          "role": "title_candidate",
+          "text": "라이브 시연: 회의 메모의 기적",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh3",
+          "role": "label_candidate",
+          "text": "부서 간 회의 메모를 투입하여 1분 만에 경영진 보고 양식으로 자동 구조화",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh4",
+          "role": "label_candidate",
+          "text": "1단계:\n날것의 메모 투입",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s08_sh5",
+          "role": "label_candidate",
+          "text": "두서없는 10줄 회의 메모\n부서별 발언·일정 메모 입력\n(현장 날것의 텍스트 원본)",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 62,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s08_sh6",
+          "role": "label_candidate",
+          "text": "2단계:\n사내 표준 스킬 호출",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 349,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s08_sh7",
+          "role": "label_candidate",
+          "text": "디프로매트 표준 양식 적용\n3줄 요약 + 쟁점 표 +\nAction Item 자동 매핑",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 349,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s08_sh8",
+          "role": "label_candidate",
+          "text": "3단계:\n1분 내 보고서 완성",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 635,
+            "y": 178,
+            "width": 262,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s08_sh9",
+          "role": "label_candidate",
+          "text": "결재용 1페이지 보고서 출력\n사람은 1분 팩트체크 후\n즉시 사내 결재 진행",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 635,
+            "y": 240,
+            "width": 262,
+            "height": 254
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s08_sh10",
+          "role": "label_candidate",
+          "text": "사람이 30분 걸리던 서식 정리를, AI가 단 40초 만에 완수합니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 9,
+      "page_type": "content_candidate",
+      "text_summary": "내일부터 당장 써먹는 1가지 작은 실천\n질문 맨 끝에 '내가 원하는 완료 기준(채점표)' 딱 한 줄만 붙여보세요.\n단 한 줄의 마법\n“맨 위에 3줄 요약 넣고\n핵심은 표로 정리해줘”\n원하는 완료 기준(채점표) 명시\n자체 검증 유도\n답변 전 자체 점검 수행\n기준 충족 여부 스스로 확인\n답변 품질의 비약적 향상\n재작업 80% 단축\n한 번에 결재 초안 완성\n반복 질문 없는 업무 완결\n퇴근 시간 1시간 단축\n완료 기준 단 한 줄 추가가 매일 여러분의 퇴근 시간을 앞당깁니다.",
+      "slots": [
+        {
+          "slot_id": "s09_sh2",
+          "role": "title_candidate",
+          "text": "내일부터 당장 써먹는 1가지 작은 실천",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh3",
+          "role": "label_candidate",
+          "text": "질문 맨 끝에 '내가 원하는 완료 기준(채점표)' 딱 한 줄만 붙여보세요.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh4",
+          "role": "body_candidate",
+          "text": "단 한 줄의 마법\n“맨 위에 3줄 요약 넣고\n핵심은 표로 정리해줘”\n원하는 완료 기준(채점표) 명시",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 62,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s09_sh5",
+          "role": "body_candidate",
+          "text": "자체 검증 유도\n답변 전 자체 점검 수행\n기준 충족 여부 스스로 확인\n답변 품질의 비약적 향상",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 353,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s09_sh6",
+          "role": "body_candidate",
+          "text": "재작업 80% 단축\n한 번에 결재 초안 완성\n반복 질문 없는 업무 완결\n퇴근 시간 1시간 단축",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 644,
+            "y": 178,
+            "width": 253,
+            "height": 326
+          },
+          "text_metrics": {
+            "font_size_px": 29.33,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s09_sh7",
+          "role": "label_candidate",
+          "text": "완료 기준 단 한 줄 추가가 매일 여러분의 퇴근 시간을 앞당깁니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 10,
+      "page_type": "content_candidate",
+      "text_summary": "지속 가능한 AI 협업 워크플로우\n업무의 발견부터 자산화까지 이어지는 전사 업무 선순환 사이클\n1. 문제 정의\n→\n귀찮음·관성 포착\n5 Whys 본질 규명\n2. 공정 분해\n→\n큰 단위 업무를\n작은 원자 작업 분할\n3. 완료 기준\n→\n통과 조건 수립\n3줄 요약·양식 규격화\n4. AI 실행\n→\n맥락 재료 투입\n스킬 기반 초안 도출\n5. 검토·확인\n→\n디렉터 팩트체크\n수치·논리 최종 검증\n6. 지식 자산화\n해결법 템플릿화\n다음 시간 50% 단축\n핵심: 1회성 질문에 그치지 않고, 템플릿으로 자산화하여 복리 효율을 만듭니다.",
+      "slots": [
+        {
+          "slot_id": "s10_sh2",
+          "role": "title_candidate",
+          "text": "지속 가능한 AI 협업 워크플로우",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh3",
+          "role": "label_candidate",
+          "text": "업무의 발견부터 자산화까지 이어지는 전사 업무 선순환 사이클",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh4",
+          "role": "label_candidate",
+          "text": "1. 문제 정의",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 197,
+            "width": 123,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh5",
+          "role": "label_candidate",
+          "text": "→",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 186,
+            "y": 197,
+            "width": 19,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh6",
+          "role": "label_candidate",
+          "text": "귀찮음·관성 포착\n5 Whys 본질 규명",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 62,
+            "y": 278,
+            "width": 123,
+            "height": 226
+          },
+          "text_metrics": {
+            "font_size_px": 14.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh7",
+          "role": "label_candidate",
+          "text": "2. 공정 분해",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 205,
+            "y": 197,
+            "width": 123,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh8",
+          "role": "label_candidate",
+          "text": "→",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 328,
+            "y": 197,
+            "width": 19,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh9",
+          "role": "label_candidate",
+          "text": "큰 단위 업무를\n작은 원자 작업 분할",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 205,
+            "y": 278,
+            "width": 123,
+            "height": 226
+          },
+          "text_metrics": {
+            "font_size_px": 14.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh10",
+          "role": "label_candidate",
+          "text": "3. 완료 기준",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 347,
+            "y": 197,
+            "width": 123,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh11",
+          "role": "label_candidate",
+          "text": "→",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 470,
+            "y": 197,
+            "width": 19,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh12",
+          "role": "label_candidate",
+          "text": "통과 조건 수립\n3줄 요약·양식 규격화",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 347,
+            "y": 278,
+            "width": 123,
+            "height": 226
+          },
+          "text_metrics": {
+            "font_size_px": 14.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh13",
+          "role": "label_candidate",
+          "text": "4. AI 실행",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 490,
+            "y": 197,
+            "width": 123,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh14",
+          "role": "label_candidate",
+          "text": "→",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 613,
+            "y": 197,
+            "width": 19,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh15",
+          "role": "label_candidate",
+          "text": "맥락 재료 투입\n스킬 기반 초안 도출",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 490,
+            "y": 278,
+            "width": 123,
+            "height": 226
+          },
+          "text_metrics": {
+            "font_size_px": 14.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh16",
+          "role": "label_candidate",
+          "text": "5. 검토·확인",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 632,
+            "y": 197,
+            "width": 123,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh17",
+          "role": "label_candidate",
+          "text": "→",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 755,
+            "y": 197,
+            "width": 19,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 17.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh18",
+          "role": "label_candidate",
+          "text": "디렉터 팩트체크\n수치·논리 최종 검증",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 632,
+            "y": 278,
+            "width": 123,
+            "height": 226
+          },
+          "text_metrics": {
+            "font_size_px": 14.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh19",
+          "role": "label_candidate",
+          "text": "6. 지식 자산화",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 774,
+            "y": 197,
+            "width": 123,
+            "height": 62
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh20",
+          "role": "label_candidate",
+          "text": "해결법 템플릿화\n다음 시간 50% 단축",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 774,
+            "y": 278,
+            "width": 123,
+            "height": 226
+          },
+          "text_metrics": {
+            "font_size_px": 14.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh21",
+          "role": "label_candidate",
+          "text": "핵심: 1회성 질문에 그치지 않고, 템플릿으로 자산화하여 복리 효율을 만듭니다.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 62,
+            "y": 523,
+            "width": 835,
+            "height": 65
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    },
+    {
+      "slide_index": 11,
+      "page_type": "ending_candidate",
+      "text_summary": "경청해 주셔서 감사합니다.\n( 질의응답 및 자유 토론 )",
+      "slots": [
+        {
+          "slot_id": "s11_sh2",
+          "role": "title_candidate",
+          "text": "경청해 주셔서 감사합니다.\n( 질의응답 및 자유 토론 )",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 2
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": []
+    }
+  ],
+  "plan_contract": {
+    "schema": "template_fill_pptx_plan.v1",
+    "slides": [
+      {
+        "source_slide": 1,
+        "purpose": "封面 / 章节 / 内容 / 结尾",
+        "replacements": [
+          {
+            "slot_id": "s01_sh2",
+            "text": "替换后的文字"
+          }
+        ],
+        "table_edits": [
+          {
+            "table_id": "s01_tbl3",
+            "cells": [
+              {
+                "row": 0,
+                "col": 0,
+                "text": "替换后的单元格"
+              }
+            ]
+          }
+        ],
+        "chart_edits": [
+          {
+            "chart_id": "s01_ch4",
+            "categories": [
+              "A",
+              "B"
+            ],
+            "series": [
+              {
+                "name": "系列1",
+                "values": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
