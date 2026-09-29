@@ -40,10 +40,8 @@
 - P05: dense
 - P06: dense
 - P07: dense
-- P08: dense
-- P09: breathing
-- P10: dense
-- P11: anchor
+- P08: anchor
+- P09: dense
 ## pptx_structure
 - mode: structured
 - template_adherence: adaptive
@@ -51,30 +49,26 @@
 - apple-master: Apple
 ## pptx_layouts
 - P01: apple-master | cover-left-rule | Cover Left Rule
-- P02: apple-master | agenda-five-rows | Agenda Five Rows
+- P02: apple-master | agenda-four-rows | Agenda Four Rows
 - P03: apple-master | three-columns | Three Columns
 - P04: apple-master | three-columns | Three Columns
 - P05: apple-master | three-columns | Three Columns
 - P06: apple-master | wide-comparison | Wide Comparison
 - P07: apple-master | three-columns | Three Columns
-- P08: apple-master | three-columns | Three Columns
-- P09: apple-master | quote-two-rows | Quote Two Rows
-- P10: apple-master | process-two-rows | Process Two Rows
-- P11: apple-master | closing-rule | Closing Rule
+- P08: apple-master | closing-rule | Closing Rule
+- P09: apple-master | process-two-rows | Process Two Rows
 ## page_layouts
-- P01: 01_title
-- P02: 02_agenda
-- P03: 05_feature_grid
-- P04: 05_feature_grid
-- P05: 05_feature_grid
-- P06: 08_comparison
-- P07: 05_feature_grid
-- P08: 05_feature_grid
-- P09: 05_feature_grid
-- P10: 05_feature_grid
-- P11: 13_closing
+- P01: adapted_cover
+- P02: adapted_agenda
+- P03: adapted_three_columns
+- P04: adapted_three_columns
+- P05: adapted_three_columns
+- P06: adapted_comparison
+- P07: adapted_three_columns
+- P08: adapted_closing
+- P09: adapted_process
 ## forbidden
-- Rewrite source wording or values
-- Change slide count or order
+- Change source wording or values beyond the user-approved agenda update
+- Change the user-approved 9-slide order
 - Shadows and large rounded cards
 - Replace the original logo with recreated text

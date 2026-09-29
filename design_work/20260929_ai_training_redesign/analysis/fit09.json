@@ -1,1 +1,20 @@
-{"vb_width":960,"vb_height":720,"blocks":[{"label":"quote","x":72,"right_bound":560,"y":320,"dy":43,"font_size":32,"lines":["“맨 위에 3줄 요약 넣고","핵심은 표로 정리해줘”"],"bottom_bound":410},{"label":"right","x":640,"right_bound":912,"y":282,"dy":31,"font_size":18.67,"lines":["답변 전 자체 점검 수행","기준 충족 여부 스스로 확인","답변 품질의 비약적 향상"],"bottom_bound":382},{"label":"right-bottom","x":640,"right_bound":912,"y":448,"dy":31,"font_size":18.67,"lines":["한 번에 결재 초안 완성","반복 질문 없는 업무 완결","퇴근 시간 1시간 단축"],"bottom_bound":545}],"obstacles":[{"label":"quote-panel","box":[48,210,590,522]}]}
+{
+  "vb_width": 960,
+  "vb_height": 720,
+  "blocks": [
+    {"label":"step-1-heading","x":64,"right_bound":304,"y":252,"font_size":24,"lines":["1. 문제 정의"],"bottom_bound":280},
+    {"label":"step-1-copy","x":64,"right_bound":304,"y":288,"dy":30,"font_size":18.67,"lines":["귀찮음·관성 포착","5 Whys 본질 규명"],"bottom_bound":332},
+    {"label":"step-2-heading","x":360,"right_bound":600,"y":252,"font_size":24,"lines":["2. 공정 분해"],"bottom_bound":280},
+    {"label":"step-2-copy","x":360,"right_bound":600,"y":288,"dy":30,"font_size":18.67,"lines":["큰 단위 업무를","작은 원자 작업 분할"],"bottom_bound":332},
+    {"label":"step-3-heading","x":656,"right_bound":896,"y":252,"font_size":24,"lines":["3. 완료 기준"],"bottom_bound":280},
+    {"label":"step-3-copy","x":656,"right_bound":896,"y":288,"dy":30,"font_size":18.67,"lines":["통과 조건 수립","3줄 요약·양식 규격화"],"bottom_bound":332},
+    {"label":"step-4-heading","x":656,"right_bound":896,"y":438,"font_size":24,"lines":["4. AI 실행"],"bottom_bound":466},
+    {"label":"step-4-copy","x":656,"right_bound":896,"y":474,"dy":30,"font_size":18.67,"lines":["맥락 재료 투입","스킬 기반 초안 도출"],"bottom_bound":518},
+    {"label":"step-5-heading","x":360,"right_bound":600,"y":438,"font_size":24,"lines":["5. 검토·확인"],"bottom_bound":466},
+    {"label":"step-5-copy","x":360,"right_bound":600,"y":474,"dy":30,"font_size":18.67,"lines":["디렉터 팩트체크","수치·논리 최종 검증"],"bottom_bound":518},
+    {"label":"step-6-heading","x":64,"right_bound":304,"y":438,"font_size":24,"lines":["6. 지식 자산화"],"bottom_bound":466},
+    {"label":"step-6-copy","x":64,"right_bound":304,"y":474,"dy":30,"font_size":18.67,"lines":["해결법 템플릿화","다음 시간 50% 단축"],"bottom_bound":518},
+    {"label":"takeaway","x":48,"right_bound":912,"y":584,"font_size":21.33,"lines":["핵심: 1회성 질문에 그치지 않고, 템플릿으로 자산화하여 복리 효율을 만듭니다."],"bottom_bound":640}
+  ],
+  "obstacles": []
+}

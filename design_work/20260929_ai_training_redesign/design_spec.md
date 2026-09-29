@@ -5,15 +5,16 @@
 |---|---|
 | Project Name | AI 활용 한 단계 더 디자인 수정 |
 | Canvas Format | PPT 4:3, 960 × 720 |
-| Page Count | 11 |
+| Page Count | 9 |
 | Design Style | swiss-minimal, diplomat_study_ppt identity |
 | Target Audience | 디프로매트 임직원 |
 | Use Case | 수요연수회 |
 | Delivery Purpose | presentation |
-| Content Strategy | Strict 1:1 beautify; wording and values unchanged |
+| Content Strategy | Re-architect source deck per user direction; preserve retained slide wording and values |
 | Template Adherence | adaptive |
 | Created Date | 2026-09-29 |
 > Note: User selected Apple in the confirmation UI; adapt its sparse composition and retain its Master identity. Explicit Diplomat branding, font, logo and 4:3 canvas override conflicting Apple defaults.
+> Structure note: `spec_lock.md` maps pages to the project's 4:3 adapted SVG prototypes in `templates/adapted_*.svg`. The original Apple template files remain unchanged as visual references.
 
 ## II. Canvas Specification
 | Property | Value |
@@ -74,11 +75,10 @@
 No decorative icons. Preserve the source ❌ and ⭕ characters as text. The original Diplomat logo is a provided image.
 
 ## VII. Visualization Reference List (if needed)
-No data charts or native tables. P08 and P10 are ordered process diagrams.
+No data charts or native tables. P09 is an ordered six-stage process diagram.
 | Page | Template | Path | Summary-quote | Usage |
 |---|---|---|---|---|
-| P08 | no-template-match | diagram-design/references/type-flowchart.md | Not applicable | Three ordered steps, preserve source labels |
-| P10 | no-template-match | diagram-design/references/type-flowchart.md | Not applicable | Six ordered steps in two rows; preserve five source arrows |
+| P09 | no-template-match | diagram-design/references/type-flowchart.md | Not applicable | Six ordered steps in two rows; preserve five source arrows |
 > Note: Source-specific two-row workflow uses explicit node/edge geometry; no fabricated chart data.
 
 ## VIII. Image Resource List
@@ -90,8 +90,9 @@ No data charts or native tables. P08 and P10 are ordered process diagrams.
 
 #### Slide 01
 
+- **Cover impact**: “AI 활용, 한 단계 더” is the hook; use a typographic poster with the large left-aligned title above a single red rule and keep event details secondary.
 - **Layout**: 01_title: spacious left cover
-- **Preservation**: Source cover/closing wording and purpose are frozen under beautify.
+- **Content** (retained source blocks):
 - **Content** (verbatim source blocks):
 
 제OOO회 수요연수회
@@ -108,16 +109,15 @@ AI 활용, 한 단계 더
 
 - **Core message**: Preserve the source slide's existing core message verbatim; do not add a new visible assertion.
 
-- **Layout**: 02_agenda: five aligned rows
+- **Layout**: 02_agenda: four aligned rows
 - **Content** (verbatim source blocks):
 
 목차
 
 - AI 활용, 어디까지 왔을까?
 - 어떻게 하면 AI를 진짜 잘 쓸 수 있을까?
-- 라이브 시연: 회의 메모의 기적
-- 내일부터 당장 써먹는 1가지 작은 실천
-- 지속 가능한 AI 협업 워크플로우
+- 라이브 시연: SKILL·AGENT·PLUGIN 활용
+- 질문이 없을 때: 지속 가능한 AI 협업 워크플로우
 
 #### Slide 03
 
@@ -226,21 +226,21 @@ AI는 자판기가 아니라, 사내 맥락을 모르는 '유능한 신입 사�
 
 프롬프트 작성 전과 후 비교 예시
 
-질문의 해상도를 높이면 AI의 답변 수준이 즉시 전문가 수준으로 변합니다.
+고객과 상황을 구체화하면, 범용 문구가 타깃에 맞는 카피로 바뀝니다.
 
-- ❌ 기존 방식 (자판기형 단순 질문)
-- • 지시: "신제품 금고 홍보 문구 써줘"
-- • 문제: 타깃·채널·제약조건 부재
-- • 결과: 뻔한 교과서적 홍보글 출력
-- • 평가: 실무 활용 불가 (재작업 발생)
+- ❌ 막연한 요청 (대상·상황·기준 없음)
+- • 지시: "금고 홍보 문구 써줘"
+- • 결과: 안전·신뢰·디자인을 나열한 범용 카피
+- • 예시: "소중한 순간을 지키는 가장 든든한 선택."
 
-- ⭕ 개선 방식 (신입 사원 디렉팅 - 3C 적용)
-- • 지시: "30대 1인가구 타깃 방화금고 카피 3개, 안도감 강조, 50자 표로"
-- • 특징: 타깃·채널·완료기준 명확히 제시
-- • 결과: 감성을 자극하는 실무용 카피 도출
-- • 평가: 즉시 결재 가능한 완성도 확보
+- ⭕ 맥락 있는 요청 (고객·상황·제약 지정)
+- • 지시: "첫 자취 30대 1인 가구용 Instagram 카피 3개. 계약서·여권 등 서로 다른 생활 장면으로, 각 25자. 근거 없는 성능·수치는 쓰지 마."
+- • 결과 예시:
+  1. 첫 자취, 서류 보관부터.
+  2. 여권과 계약서, 한곳에.
+  3. 새집의 첫 준비, 방화금고.
 
-질문의 해상도를 높이면, AI는 뻔한 글 대신 실무 완성품을 만듭니다.
+구체적인 맥락과 기준이 들어가면 결과의 방향부터 달라집니다.
 
 #### Slide 07
 
@@ -272,72 +272,20 @@ AI는 자판기가 아니라, 사내 맥락을 모르는 '유능한 신입 사�
 
 #### Slide 08
 
-- **Core message**: Preserve the source slide's existing core message verbatim; do not add a new visible assertion.
+- **Core message**: Thank the audience and open the floor for questions and discussion.
+- **Layout**: 13_closing: spacious closing
+- **Content**:
 
-- **Layout**: 05_feature_grid: three ordered steps
-- **Content** (verbatim source blocks):
+경청해 주셔서 감사합니다.
 
-라이브 시연: 회의 메모의 기적
-
-부서 간 회의 메모를 투입하여 1분 만에 경영진 보고 양식으로 자동 구조화
-
-- 1단계:
-- 날것의 메모 투입
-
-- 2단계:
-- 사내 표준 스킬 호출
-
-- 3단계:
-- 1분 내 보고서 완성
-
-- 두서없는 10줄 회의 메모
-- 부서별 발언·일정 메모 입력
-- (현장 날것의 텍스트 원본)
-
-- 디프로매트 표준 양식 적용
-- 3줄 요약 + 쟁점 표 +
-- Action Item 자동 매핑
-
-- 결재용 1페이지 보고서 출력
-- 사람은 1분 팩트체크 후
-- 즉시 사내 결재 진행
-
-사람이 30분 걸리던 서식 정리를, AI가 단 40초 만에 완수합니다.
+( 질의응답 및 자유 토론 )
 
 #### Slide 09
 
-- **Core message**: Preserve the source slide's existing core message verbatim; do not add a new visible assertion.
-
-- **Layout**: 05_feature_grid: featured quote and two rows
-- **Content** (verbatim source blocks):
-
-내일부터 당장 써먹는 1가지 작은 실천
-
-질문 맨 끝에 '내가 원하는 완료 기준(채점표)' 딱 한 줄만 붙여보세요.
-
-- 단 한 줄의 마법
-- “맨 위에 3줄 요약 넣고
-- 핵심은 표로 정리해줘”
-- 원하는 완료 기준(채점표) 명시
-
-- 자체 검증 유도
-- 답변 전 자체 점검 수행
-- 기준 충족 여부 스스로 확인
-- 답변 품질의 비약적 향상
-
-- 재작업 80% 단축
-- 한 번에 결재 초안 완성
-- 반복 질문 없는 업무 완결
-- 퇴근 시간 1시간 단축
-
-완료 기준 단 한 줄 추가가 매일 여러분의 퇴근 시간을 앞당깁니다.
-
-#### Slide 10
-
-- **Core message**: Preserve the source slide's existing core message verbatim; do not add a new visible assertion.
-
+- **Closing impact**: Leave the audience with the idea that repeatable AI work compounds; use the six-step workflow to culminate in a bold one-line takeaway.
+- **Core message**: Optional closing reference, shown after the thank-you slide only when there are no questions.
 - **Layout**: 05_feature_grid: two rows of three stages
-- **Content** (verbatim source blocks):
+- **Content** (retained source blocks):
 
 지속 가능한 AI 협업 워크플로우
 
@@ -384,17 +332,6 @@ AI는 자판기가 아니라, 사내 맥락을 모르는 '유능한 신입 사�
 - 다음 시간 50% 단축
 
 핵심: 1회성 질문에 그치지 않고, 템플릿으로 자산화하여 복리 효율을 만듭니다.
-
-#### Slide 11
-
-- **Core message**: Preserve the source slide's existing core message verbatim; do not add a new visible assertion.
-
-- **Layout**: 13_closing: spacious closing
-- **Preservation**: Source cover/closing wording and purpose are frozen under beautify.
-- **Content** (verbatim source blocks):
-
-- 경청해 주셔서 감사합니다.
-- ( 질의응답 및 자유 토론 )
 
 ## X. Speaker Notes Requirements
 
